@@ -1,0 +1,18 @@
+.box1{
+	display : inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: cyan;
+	padding : 50px;
+	border : 5px solid black;
+	margin :50px;
+}
+.box2{
+	width: 100px;
+	height:100px;
+	background-color: lime;
+	margin:100px 50px;
+}
+h1{
+	display: inline-block;
+}
